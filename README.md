@@ -26,7 +26,7 @@
 
 <h2>💾 Big Data, MLOps, & Cloud Projects</h2>
 
-- <b>Data Pipeline with Apache Spark</b>
+- <b>Production ETL (Extract, Transform, Load) Pipeline</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Deploying a Machine Learning Model on AWS/GCP</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
