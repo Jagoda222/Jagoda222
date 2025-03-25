@@ -1,5 +1,15 @@
 <h1>Hi, I'm Jagoda!👋 </h1>
 
+<h2>University Projects</h2>
+
+- <b>Rule based restaurant recommnedation system</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Optimizing Curriculum Learning on the SNLI Dataset</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Data Streams</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
 <h2>🧠 Machine Learning & Deep Learning Projects</h2>
 
 - <b>NLP Sentiment Analysis (Transformers/BERT)</b>
